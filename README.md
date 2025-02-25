@@ -1,2 +1,2 @@
-# java-e-orientacao-a-objetos
+# Java e Orientação a Objetos
 Código fonte do curso "Java e Orientação a Objetos"
